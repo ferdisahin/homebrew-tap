@@ -10,7 +10,7 @@ brew install ferdisahin/tap/hman
 
 ## Total Command (macOS)
 
-Native dual-pane file manager for macOS 13 or later, available for Apple Silicon and Intel. Developer ID signed and notarized by Apple. Version 0.2.2 is an early preview.
+Native dual-pane file manager for macOS 13 or later, available for Apple Silicon and Intel. Developer ID signed and notarized by Apple. Version 0.2.4 is an early preview.
 
 ```sh
 brew install --cask ferdisahin/tap/total-command
